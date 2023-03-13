@@ -8,4 +8,4 @@
  3. IA
  4. Aprender Git/github
 
- > Keep learning. 
+ > Keep learning. Never give up.
